@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">在线升级工具</string>
+    <string name="app_fullname">LPC213X烧录工具</string>
+    <string name="select_serial_port">串口设备：</string>
+    <string name="select_baud_rate">波特率：</string>
+    <string name="no_serial_device">找不到串口设备</string>
+    <string name="download">下载</string>
+    <string name="begin_program_flash">开始烧录</string>
+    <string name="runing_status">运行状态</string>
+    <string name="commu_settings">通讯设置</string>
+    <string name="chiptype">芯片类型</string>
+    <string name="chip_oscillator">晶振(HZ)：</string>
+    <string name="hex_file_down">下载</string>
+    <string name="hex_file_name">文件名称</string>
+    <string name="hex_file_size">文件容量(KB)</string>
+    <string name="str_cancel">取消</string>
+    <string name="str_confirm">确定</string>
+    <string name="str_settings">设置</string>
+    <string name="str_goback">返回</string>
+    <string name="action_prompt_downloading">正在下载升级文件...</string>
+    <string name="action_prompt_downloading_success">下载成功！</string>
+    <string name="action_prompt_downloading_failed">下载失败！</string>
+    <string name="no_download_file_permissions">无文件下载权限</string>
+    <string name="file_no_empty">文件名不能为空</string>
+    <string name="file_not_exist">文件不存在</string>
+    <string name="apkfile_not_exist">APK升级包文件不存在</string>
+    <string name="ispfile_not_exist">BIN升级包文件不存在</string>
+    <string name="comport_no_empty">串口设备不能为空</string>
+    <string name="bauaerate_no_empty">波特率不能为空</string>
+    <string name="str_input_filename">请输入升级文件名 </string>
+    <string name="str_apk_type">APK文件</string>
+    <string name="str_bin_type">BIN文件</string>
+    <string name="str_install_apk">安装</string>
+    <string name="str_upgrade_bin">升级</string>
+    <string name="str_ask_newver_bin_install">确认要升级主板吗？</string>
+    <string name="str_ask_newver_apk_install">确认要安装APK升级包吗？</string>
+    <string name="package_not_exist">Diode Laser 没有安装</string>
+    <string name="str_network_err">网络连接出错</string>
+
+</resources>
