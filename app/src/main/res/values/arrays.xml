@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="devs_arr">
+        <item>/dev/ttyS0</item>
+        <item>/dev/ttyS1</item>
+        <item>/dev/ttyS2</item>
+        <item>/dev/ttyS3</item>
+        <item>/dev/ttyS4</item>
+    </string-array>
+
+
+    <string-array name="baud_rate_arr">
+        <item>110</item>
+        <item>300</item>
+        <item>600</item>
+        <item>1200</item>
+        <item>2400</item>
+        <item>4800</item>
+        <item>9600</item>
+        <item>14400</item>
+        <item>19200</item>
+        <item>38400</item>
+        <item>56000</item>
+        <item>57600</item>
+        <item>115200</item>
+        <item>128000</item>
+        <item>256000</item>
+    </string-array>
+
+
+    <string-array name="check_digit_arr">
+        <item>N</item>
+        <item>E</item>
+        <item>O</item>
+    </string-array>
+
+
+    <string-array name="data_bits_arr">
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+
+    <string-array name="stop_bits_arr">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
